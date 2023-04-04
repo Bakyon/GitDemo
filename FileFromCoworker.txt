@@ -8,4 +8,4 @@ Changes made by teammate!
 Last step to finish the project
 
 # To do
-Update #6
+Move #6 to Done list
