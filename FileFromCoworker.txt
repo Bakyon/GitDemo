@@ -3,3 +3,9 @@ This is a file that your teammates added, modified recently.
 Changes made by user.
 //Changes made by teammate name
 Changes made by teammate!
+
+# Propose change
+Last step to finish the project
+
+# To do
+Merge
